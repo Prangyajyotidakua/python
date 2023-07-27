@@ -1,0 +1,12 @@
+name = "prangya jyoti dakua"
+print(f"value of -2 is {name[0]}")
+print(name[-1])
+print(name[-3])
+print(name[-4])
+print(name[-5])
+print(name[-6])
+print(name[0:])
+print(f"value of 1 is {name[1]}")
+print(f"value of 2 is {name[2]}")
+print(f"value of 2:5 is {name[2:5]}")
+print(f"value of 0:15 is {name[0:15]}")
